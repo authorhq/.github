@@ -1,1 +1,1 @@
-# .github
+See https://github.com/author-hq
