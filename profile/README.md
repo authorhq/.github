@@ -1,1 +1,1 @@
-See https://github.com/authot-hq
+See https://github.com/author-hq
